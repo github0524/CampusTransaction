@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/songchuanlong/Desktop/CampusTransaction/CampusTransaction/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.275" />
+        <entry key="..\:/Users/songchuanlong/Desktop/CampusTransaction/CampusTransaction/app/src/main/res/drawable/bg_username.xml" value="0.275" />
+        <entry key="..\:/Users/songchuanlong/Desktop/CampusTransaction/CampusTransaction/app/src/main/res/drawable/btn_cancel.xml" value="0.275" />
+        <entry key="..\:/Users/songchuanlong/Desktop/CampusTransaction/CampusTransaction/app/src/main/res/drawable/btn_login.xml" value="0.225" />
+        <entry key="..\:/Users/songchuanlong/Desktop/CampusTransaction/CampusTransaction/app/src/main/res/drawable/btn_publish.xml" value="0.275" />
+        <entry key="..\:/Users/songchuanlong/Desktop/CampusTransaction/CampusTransaction/app/src/main/res/drawable/ic_launcher_background.xml" value="0.275" />
+        <entry key="..\:/Users/songchuanlong/Desktop/CampusTransaction/CampusTransaction/app/src/main/res/layout/activity_add_commodity.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/songchuanlong/Desktop/CampusTransaction/CampusTransaction/app/src/main/res/layout/activity_commodity_type.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/songchuanlong/Desktop/CampusTransaction/CampusTransaction/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/songchuanlong/Desktop/CampusTransaction/CampusTransaction/app/src/main/res/layout/activity_main.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/songchuanlong/Desktop/CampusTransaction/CampusTransaction/app/src/main/res/layout/activity_modify_info.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/songchuanlong/Desktop/CampusTransaction/CampusTransaction/app/src/main/res/layout/activity_modify_pwd.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/songchuanlong/Desktop/CampusTransaction/CampusTransaction/app/src/main/res/layout/activity_my_collection.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/songchuanlong/Desktop/CampusTransaction/CampusTransaction/app/src/main/res/layout/activity_my_info.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/songchuanlong/Desktop/CampusTransaction/CampusTransaction/app/src/main/res/layout/activity_personal_center.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/songchuanlong/Desktop/CampusTransaction/CampusTransaction/app/src/main/res/layout/activity_register.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/songchuanlong/Desktop/CampusTransaction/CampusTransaction/app/src/main/res/layout/activity_review_commodity.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/songchuanlong/Desktop/CampusTransaction/CampusTransaction/app/src/main/res/layout/layout_commodity_review.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/songchuanlong/Desktop/CampusTransaction/CampusTransaction/app/src/main/res/layout/layout_my_collection.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/songchuanlong/Desktop/CampusTransaction/CampusTransaction/app/src/main/res/layout/layout_my_commodity.xml" value="0.25885416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
