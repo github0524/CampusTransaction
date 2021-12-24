@@ -4,7 +4,7 @@
     android:layout_height="match_parent">
     <TextView
         android:id="@+id/tv_title"
-        android:text="跳蚤市场"
+        android:text="二手交易"
         android:textSize="40sp"
         android:textStyle="bold"
         android:textColor="@color/colorGreenLight"

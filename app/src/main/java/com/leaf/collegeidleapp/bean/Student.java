@@ -5,7 +5,7 @@ package com.leaf.collegeidleapp.bean;
  */
 public class Student {
 
-    //学号
+    //学号   用户登录的账号
     private String stuNumber;
     //姓名
     private String stuName;
