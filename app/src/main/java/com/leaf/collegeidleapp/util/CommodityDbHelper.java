@@ -14,7 +14,7 @@ import java.util.List;
 
 /**
  * 商品数据库连接类
- * @author : autumn_leaf
+ *
  */
 public class CommodityDbHelper extends SQLiteOpenHelper {
 

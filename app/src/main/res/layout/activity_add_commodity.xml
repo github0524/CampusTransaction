@@ -13,16 +13,17 @@
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
         android:background="@color/colorGray"/>
+
     <TextView
         android:id="@+id/tv_student_id"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/tv_publish_info"
-        android:textSize="8sp"
-        android:textColor="@color/colorBlack"
         android:layout_marginTop="8dp"
         android:gravity="center_horizontal"
-        android:textStyle="italic"/>
+        android:textColor="@color/colorBlack"
+        android:textSize="8sp"
+        android:textStyle="italic" />
     <TextView
         android:id="@+id/tv_add_photo"
         android:layout_width="100dp"
@@ -144,15 +145,16 @@
 
     <Button
         android:id="@+id/btn_publish"
-        android:layout_width="180dp"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/tv_description"
-        android:layout_marginLeft="15dp"
-        android:layout_marginTop="20dp"
+        android:layout_width="101dp"
+        android:layout_height="30dp"
+        android:layout_below="@+id/tv_student_id"
+        android:layout_marginLeft="305dp"
+        android:layout_marginTop="69dp"
         android:layout_marginRight="10dp"
         android:background="@drawable/btn_publish"
         android:text="发布"
         android:textSize="25sp" />
+
     <Button
         android:id="@+id/btn_back"
         android:layout_width="180dp"

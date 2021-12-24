@@ -37,10 +37,11 @@
         android:layout_below="@+id/tv_type"
         android:background="@color/colorBlack"
         android:layout_marginTop="5dp"/>
+
     <ListView
         android:id="@+id/list_commodity"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@+id/view"
-        android:layout_marginTop="10dp"/>
+        android:layout_marginTop="10dp" />
 </RelativeLayout>

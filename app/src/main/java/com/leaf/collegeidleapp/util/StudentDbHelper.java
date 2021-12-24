@@ -12,7 +12,7 @@ import java.util.LinkedList;
 
 /**
  * 学生数据库连接类
- * @author : autumn_leaf
+ *
  */
 public class StudentDbHelper extends SQLiteOpenHelper {
 

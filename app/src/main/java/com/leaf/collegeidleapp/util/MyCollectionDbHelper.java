@@ -13,7 +13,7 @@ import java.util.List;
 
 /**
  * 我的收藏数据库连接类
- * @author autumn_leaf
+
  */
 public class MyCollectionDbHelper extends SQLiteOpenHelper {
 

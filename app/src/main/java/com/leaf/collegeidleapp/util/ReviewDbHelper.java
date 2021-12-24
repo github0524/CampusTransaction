@@ -12,7 +12,7 @@ import java.util.LinkedList;
 
 /**
  * 评论/留言数据库连接类
- * @author autumn_leaf
+ *
  */
 public class ReviewDbHelper extends SQLiteOpenHelper {
 
